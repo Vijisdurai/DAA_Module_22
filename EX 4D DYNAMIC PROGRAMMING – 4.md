@@ -17,8 +17,8 @@ To find the minimum number of operations to convert str1 to str2 using Naive rec
 6.Print the smallest number of steps to change one word into the other.
 ## Program:
 ```
-# Developed by: Yuva Krishna K
-# Register Number: 212222110056
+# Developed by: Vijis Durai R
+# Register Number: 212222220057
 
 def ed(x,y,m,n):
     if m==0:
