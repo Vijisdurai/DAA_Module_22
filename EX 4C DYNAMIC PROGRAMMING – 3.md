@@ -22,8 +22,9 @@ Given a sequence, find the length of the longest palindromic subsequence in it.
 
 ## Program:
 ```
-# Developed by: Yuva Krishna K
-# Register Number: 212222110056
+# Developed by: Vijis Durai R
+# Register Number: 212222220057
+
 
 def Lps(X):
     n=len(X)
